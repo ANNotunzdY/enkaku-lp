@@ -30,6 +30,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xIb21lLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/Users/development/Documents/GitHub/enkaku-lp/enkaku-lp/enkaku-lp/Components/Pages/Legal.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xMZWdhbC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Users/development/Documents/GitHub/enkaku-lp/enkaku-lp/enkaku-lp/Components/Pages/Weather.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xXZWF0aGVyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 

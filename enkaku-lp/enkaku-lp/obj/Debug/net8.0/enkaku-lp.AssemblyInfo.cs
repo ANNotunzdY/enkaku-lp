@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("enkaku-lp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bbad3df17b661619fc42412ef49139940935c570")]
 [assembly: System.Reflection.AssemblyProductAttribute("enkaku-lp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("enkaku-lp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
